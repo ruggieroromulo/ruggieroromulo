@@ -1,7 +1,7 @@
 ## Hi there 👋
-<h1 align="center"> Prazer, sou o Vinicius!</h1>
-<h4 align="left"> - ✏ Graduando em Sistemas de Informação pela PUC-MG </h3>
-<h4 align="left"> - 🎓 Ex Aluno de Informática do CEFET-MG </h3>
+<h1 align="center"> Prazer, sou o Rômulo!</h1>
+<h4 align="left"> - 🎓 Graduando em Sistemas de Informação pela PUC-MG </h3>
+<h4 align="left"> - ✏ Ex Aluno de Informática do CEFET-MG </h3>
 
 
 <br>
@@ -19,8 +19,7 @@
 
 <h3 align="left">Sistemas Operacionais:</h3>
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=windows,ubuntu" />
-    <img src="https://skillicons.dev/icons?i=windows,linux" />
+    <img src="https://skillicons.dev/icons?i=windows,ubuntu,linux,kali" />
   </a>
 
 <h3 align="left">Banco de Dados:</h3>
