@@ -9,7 +9,7 @@
 ---
 <h3 align="left">Linguagens:</h3>
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,php,html,css" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,javascript,python,php,html,css" />
   </a>
 
 <h3 align="left">IDE's:</h3>
