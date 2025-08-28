@@ -14,7 +14,7 @@
 
 <h3 align="left">IDE's:</h3>
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,eclipse"/> 
+    <img src="https://skillicons.dev/icons?i=vscode,eclipse,intellij"/> 
 </a>
 
 <h3 align="left">Sistemas Operacionais:</h3>
