@@ -1,33 +1,54 @@
-## Hi there 👋
-<h1 align="center"> Prazer, sou o Rômulo!</h1>
-<h4 align="left"> - 🎓 Graduando em Sistemas de Informação pela PUC-MG </h3>
-<h4 align="left"> - ✏ Ex Aluno de Informática do CEFET-MG </h3>
-
-
+<h1 align="center">Hi, I'm Rômulo</h1>
+<h3 align="center">A brazilian developer</h3>
 <br>
 
+</br>
+<h3 align="left">
+    - 🎓 Graduating in Information Systems from PUC-MG
+</h3>
+
+<h3 align="left">
+    - ✏ Former Computer Science Student at CEFET-MG
+</h3>
+
+
+
 ---
-<h3 align="left">Linguagens:</h3>
+- 🔄 Last Project [Java Zoo Management](https://github.com/ruggieroromulo/ZooProject)
+  
+- 🌱 I’m currently learning **Cloud computing**
+
+- 💬 Ask me about **anything**
+
+- 📫 How to reach me **ruggieroromulo@gmail.com**
+
+
+---
+
+<h3 align="left">Languages:</h3>
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,javascript,python,php,html,css" />
+    <img src="https://skillicons.dev/icons?i=java,c,cpp,javascript,python,php,html,css" />
+  </a>
+
+  <h3 align="left">Database:</h3>
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgresql" />
+  </a>
+
+<h3 align="left">Version Control:</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,bitbucket" />
   </a>
 
 <h3 align="left">IDE's:</h3>
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,eclipse,intellij"/> 
+    <img src="https://skillicons.dev/icons?i=vscode,eclipse,idea"/> 
 </a>
 
-<h3 align="left">Sistemas Operacionais:</h3>
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=windows,ubuntu,linux,kali" />
-  </a>
-
-<h3 align="left">Banco de Dados:</h3>
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql" />
-  </a>
-
-<summary>⚙ <b>GitHub Analytics</b>: </summary>
+---
+<div align="center">
+<h3><b>GitHub Analytics</b>: <h3>
+</div>
   <br>
   <p align="center">
       <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ruggieroromulo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
