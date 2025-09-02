@@ -27,6 +27,10 @@
     <img src="https://skillicons.dev/icons?i=mysql" />
   </a>
 
-<!--
-**ruggieroromulo/ruggieroromulo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<summary>⚙ <b>GitHub Analytics</b>: </summary>
+  <br>
+  <p align="center">
+      <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ruggieroromulo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+      <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ruggieroromulo&layout=compact&langs_count=8&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  </p>
 
